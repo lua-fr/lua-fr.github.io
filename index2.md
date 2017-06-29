@@ -1,10 +1,5 @@
-# lua-fr
+Bienvenue sur le site de la communauté francophone de Lua
 
-Hello world!
+Le site est pour le moment vide mais sera enrichi de documentation sur Lua à destination des débutants ainsi que du manuel traduit en français
 
- * [x] make a sample
- * [ ] make a real page
- * [ ] translate in french
- * [ ] faire tout le reste
-
-
+N'hésitez à nous contacter via IRC sur le canal [#lua-fr](http://webchat.freenode.net/?channels=#lua-fr) de Freenode, ou sur [GitHub](https://github.com/lua-fr/)
